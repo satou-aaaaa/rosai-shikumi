@@ -1,0 +1,23 @@
+{
+  "name": "労災のしくみ",
+  "short_name": "労災のしくみ",
+  "description": "仕事中・通勤中のけがの場面から、労災保険法の決まりを当てる1日5問",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3efe4",
+  "theme_color": "#f3efe4",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
